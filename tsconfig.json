@@ -74,7 +74,9 @@
     ".next/types/app/[locale]/sign-in/page.tsx",
     ".next/types/app/[locale]/page.tsx",
     ".next/types/app/[locale]/layout.tsx",
-    ".next/types/app/[locale]/(auth)/sign-in/page.tsx"
+    ".next/types/app/[locale]/(auth)/sign-in/page.tsx",
+    "copy-types.js",
+    "build-icons.js"
   ],
   "exclude": [
     "node_modules"

@@ -1,0 +1,2 @@
+export type IconNameType =
+	| "flashlight"
