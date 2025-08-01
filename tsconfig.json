@@ -60,6 +60,9 @@
       "@utils": [
         "./lib/utils"
       ],
+      "@api": [
+        "./lib/api"
+      ],
       "@hooks": [
         "./lib/hooks"
       ],

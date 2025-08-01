@@ -1,1 +1,2 @@
-export * from './products';
+export * from './client';
+export * from './products.api';
